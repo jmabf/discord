@@ -12,6 +12,6 @@ for x in lista:
         dentro+=1
     else:
         fora+=1
-print('{} in\n{} out'.format(dentro, fora))
+print('{} e in\n{} out'.format(dentro, fora))
         
     
